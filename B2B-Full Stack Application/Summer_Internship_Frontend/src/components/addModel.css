@@ -1,0 +1,10 @@
+.ButtonHeader{
+    display: inline-block;
+}
+.left{
+    display:inline-block;
+}
+.right{
+    display:inline-block;
+    margin-left:300px;
+}
